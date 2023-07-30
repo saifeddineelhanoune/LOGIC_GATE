@@ -24,7 +24,7 @@ m lines : two space separated strings : name of output signal, then signal form.
 <h2>Contraintes</h2>
 1 ≤ n ≤ 4
 1 ≤ m ≤ 16
-</h1>Exemple</h1>
+</h1>Example</h1>
 Entrée												Sortie
 2													C ____-_____-_____-_____-___ __
 3													D-----_-----_-----_-----_
